@@ -15,7 +15,7 @@ const Hero = () => (
         In this Website you can view my work on the listed technologies which I have learnt
         over the years from different learning ways be it my college ,youtube,udemy etc.
       </SectionText>
-      <Button onClick={()=>{window.location.assign(`files/Resume Ashwani.pdf`)}}>Learn More</Button>
+      <Button onClick={()=>{window.location.assign(`files/Ashwani_resume_FS.pdf`)}}>Learn More</Button>
     </LeftSection>
   </Section>
 );

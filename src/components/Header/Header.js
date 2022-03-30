@@ -42,7 +42,7 @@ const Header = () =>  (
         <AiFillMail size="3rem" />
       </SocialIcons>
       <Tooltip title="Download CV" style={{size:"2rem"}}>
-      <SocialIcons href='files\Resume Ashwani.pdf' download>
+      <SocialIcons href='files\Ashwani_resume_FS.pdf' download>
         <AiOutlineDownload size="3rem"/>
       </SocialIcons>
       </Tooltip>
